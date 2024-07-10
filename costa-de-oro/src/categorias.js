@@ -60,5 +60,4 @@ function OffcanvasExample() {
   );
 }
 
-<OffcanvasExample></OffcanvasExample>
 export default OffcanvasExample;
