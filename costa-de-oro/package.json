@@ -2,7 +2,7 @@
   "name": "costa-de-oro",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://verdeverdad.github.io/Costa-de-Oro/costa-de-oro",
+  "homepage": "https://verdeverdad.github.io/Costa-de-Oro",
   "dependencies": {
     "@chakra-ui/react": "^2.8.2",
     "@testing-library/jest-dom": "^5.17.0",
