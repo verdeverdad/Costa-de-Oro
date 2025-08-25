@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Costa-de-Oro/static/css/main.fb961db8.css",
+    "main.js": "/Costa-de-Oro/static/js/main.885c8312.js",
+    "static/js/453.33b41dcc.chunk.js": "/Costa-de-Oro/static/js/453.33b41dcc.chunk.js",
+    "static/media/tuLugar.png": "/Costa-de-Oro/static/media/tuLugar.89e3cf58876e5a4c4409.png",
+    "index.html": "/Costa-de-Oro/index.html",
+    "main.fb961db8.css.map": "/Costa-de-Oro/static/css/main.fb961db8.css.map",
+    "main.885c8312.js.map": "/Costa-de-Oro/static/js/main.885c8312.js.map",
+    "453.33b41dcc.chunk.js.map": "/Costa-de-Oro/static/js/453.33b41dcc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb961db8.css",
+    "static/js/main.885c8312.js"
+  ]
+}
